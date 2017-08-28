@@ -1341,4 +1341,4 @@ function updateMessage(input, response) {
 }
 
 app.listen(PORT)
-console.log('Watson proxy server running on port:' + PORT)
+console.log('Watson proxy server running on port :' + PORT)
